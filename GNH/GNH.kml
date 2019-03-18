@@ -3425,8 +3425,10 @@
 	</Style>
 	<Folder>
 		<name>GNH</name>
+		<open>1</open>
 		<Folder>
 			<name>STO</name>
+			<open>1</open>
 			<Placemark>
 				<name>STO GNH</name>
 				<open>1</open>
@@ -11183,6 +11185,7 @@ Warna: Merah;</description>
 				</Folder>
 				<Folder>
 					<name>ALPRO</name>
+					<open>1</open>
 					<Folder>
 						<name>TIANG</name>
 					</Folder>
@@ -14370,6 +14373,7 @@ Warna: Merah;</description>
 		</Folder>
 		<Folder>
 			<name>FEEDER</name>
+			<open>1</open>
 			<Folder>
 				<name>FE-GNH-01</name>
 				<Folder>
@@ -14618,7 +14622,6 @@ Construction Status: In Service ;</description>
 				</Folder>
 				<Folder>
 					<name>CLOSURE</name>
-					<open>1</open>
 					<Placemark>
 						<name>SC-OF-SM-24</name>
 						<open>1</open>
@@ -14717,6 +14720,24 @@ Splice Method:Fusion;</description>
 							<coordinates>107.293526026754,-7.029252243665078,0</coordinates>
 						</Point>
 					</Placemark>
+				</Folder>
+				<Folder>
+					<name>GALIAN</name>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>FE-STO-04</name>
+				<Folder>
+					<name>KABEL FEEDER</name>
+				</Folder>
+				<Folder>
+					<name>ODC</name>
+				</Folder>
+				<Folder>
+					<name>MH/HH</name>
+				</Folder>
+				<Folder>
+					<name>CLOSURE</name>
 				</Folder>
 				<Folder>
 					<name>GALIAN</name>
